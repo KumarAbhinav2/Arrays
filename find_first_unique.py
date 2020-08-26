@@ -4,6 +4,39 @@ Implement a function, findFirstUnique(lst) that returns the first unique integer
 Input - arr = [9,2,3,2,6,6]
 output - 9
 """
+
+mymap = {}
+for i in arr:
+    if i in mymap.items():
+        del mymap[i]
+    else:
+        mymap[i] = arr.insert()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import unittest
 import time
 from collections import OrderedDict

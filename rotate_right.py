@@ -5,6 +5,36 @@ Input - lst = [1,2,3,4,5]
 
 Output - [3,4,5,1,2]
 """
+
+
+
+# step1: last_value = lst[-1]
+# step2: lst = lst[:-1]
+# step3: lst.insert(0, last_value)
+
+
+# lst[-n:] + lst[:-n]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import unittest
 
 # Intuitive way
@@ -21,10 +51,10 @@ def rightRotate_intuitive(lst, n):
     return new_list
 
 # Better way
-
 def rightRotate_better(lst, n):
     n = n % len(lst)   # taking module will help us ensuring while indexing n won't go beyond with big numbers
-    return  lst[-n:] + lst[:-n] # Idea came from negative indexing in python
+    return lst[-n:] + lst[:-n] # Idea came from negative indexing in python
+
 
 class TestRightRotate(unittest.TestCase):
 
