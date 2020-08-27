@@ -13,8 +13,8 @@ Output: 6
 """
 """
 ALGO: (Hint: water is trapped between rightmost highest tower and leftmost highest , driving factor is minimum of them)
-1) Iterate the list from leftside and get the list of leftmost highest towers of each tower(including current)
-2) Iterate the list from rightside and get the list of rightmost highest tower of each tower (including current)
+1) Iterate the list from leftside and get the list of leftmost highest tower from each tower(including current)
+2) Iterate the list from rightside and get the list of rightmost highest tower from each tower (including current)
 3) trapped water at each tower = min(leftmost, rightmost) - height of current tower
 4) take lists generated from 1 and 2 and generate list of water trapped at each tower
 5) sum of the elements is the answer
