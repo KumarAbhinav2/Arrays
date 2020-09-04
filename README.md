@@ -9,3 +9,5 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 3. [Rotating image matrix by 90 degrees](https://github.com/KumarAbhinav2/Arrays/blob/master/rotate_image(LTM-48).py)
 
 4. [Evaluate Reverse Polish Notation](https://github.com/KumarAbhinav2/Arrays/blob/master/evaluate_reverse_polish_notation(LTM-150).py)
+
+5. [Find duplicate number](https://github.com/KumarAbhinav2/Arrays/blob/master/find_duplicate_number(LTM-287).py)
