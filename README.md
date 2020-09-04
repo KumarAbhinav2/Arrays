@@ -1,6 +1,6 @@
 # Arrays
 
-Repo is dedicated to host all leetcode Array problems (you can refer to leetcode by the number between parenthesis):
+Repository is dedicated to host interesting Array problems mostly from popular platforms like Leetcode, hackerRank , codechef etc.
 
 1. [Trapping Rain Water](https://github.com/KumarAbhinav2/Arrays/blob/master/trappingTrainingWater(LTH-42).py)
 
