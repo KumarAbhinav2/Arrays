@@ -13,3 +13,5 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 5. [Find duplicate number](https://github.com/KumarAbhinav2/Arrays/blob/master/find_duplicate_number(LTM-287).py)
 
 6. [2D matrix Game of Life](https://github.com/KumarAbhinav2/Arrays/blob/master/game_of_life(LTM-289).py)
+
+7. [Two sum](https://github.com/KumarAbhinav2/Arrays/blob/master/two_sum(LTE-1).py)
