@@ -16,4 +16,6 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 
 7. [Two sum](https://github.com/KumarAbhinav2/Arrays/blob/master/two_sum(LTE-1).py)
 
-8.[Two Sum II](https://github.com/KumarAbhinav2/Arrays/blob/master/two-sumII(LTE-167).py)
+8. [Two Sum II](https://github.com/KumarAbhinav2/Arrays/blob/master/two-sumII(LTE-167).py)
+
+9. [minStack](https://github.com/KumarAbhinav2/Arrays/blob/master/minStack(LTE-155).py)
