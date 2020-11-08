@@ -77,7 +77,42 @@ class Solution:
                 j-=1
         return res
 
+    def usingStack(self, height) -> int:
+        current = 0
+        stack = []
+        res = 0
+        while current < len(height):
+            while stack and height[current] > height[stack[-1]]:
+                top = stack.pop()
+                if not stack:
+                    break
+                distance = current - stack[-1] - 1
+                bounded_height = min(height[current], height[stack[-1]]) - height[top]
+                res += distance * bounded_height
+            stack.append(current)
+            current +=1
+        return res
 
+    def twoPointers(self, height):
+        left, right = 0, len(height) - 1
+        left_max, right_max = 0, 0
+        ans = 0
+        while left < right:
+            if height[left] < height[right]:
+                if height[left] > left_max:
+                    left_max = height[left]
+                else:
+                    ans += left_max - height[left]
+                    left += 1
+            else:
+                if height[right] > right_max:
+                    right_max = height[right]
+                else:
+                    ans += right_max - height[right]
+                    right -= 1
+            return ans
+
+        
 
 class TestSolution(unittest.TestCase):
 
