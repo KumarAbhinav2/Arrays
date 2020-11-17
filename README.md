@@ -25,3 +25,5 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 11. [Maximum Product Subarray](https://github.com/KumarAbhinav2/Arrays/blob/master/Max_Product_Subarray(LTM-152).py)
 
 12. [3 Sum](https://github.com/KumarAbhinav2/Arrays/blob/master/3Sum(LTM-15).py)
+
+13. [Buy and Sell Stock](https://github.com/KumarAbhinav2/Arrays/blob/master/BuyAndSellStock(LTE-121).py)
