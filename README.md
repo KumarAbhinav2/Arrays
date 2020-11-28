@@ -27,3 +27,5 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 12. [3 Sum](https://github.com/KumarAbhinav2/Arrays/blob/master/3Sum(LTM-15).py)
 
 13. [Buy and Sell Stock](https://github.com/KumarAbhinav2/Arrays/blob/master/BuyAndSellStock(LTE-121).py)
+
+14. [Kth largest element](https://github.com/KumarAbhinav2/Arrays/blob/master/kth_largest_element_in_array(LTM-215).py)
