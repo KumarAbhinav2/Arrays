@@ -21,3 +21,5 @@ class Solution:
 
         max_3, min_3 = heapq.nlargest(3, nums), heapq.nsmallest(2, nums)
         return max(max_3[0]*max_3[1]*max_3[2], min_3[0]*min_3[1]*max_3[0])
+
+    # Time complexity: O(Nlogk)
