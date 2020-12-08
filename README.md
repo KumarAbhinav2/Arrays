@@ -35,3 +35,5 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 16. [Check for suduko validity](https://github.com/KumarAbhinav2/Arrays/blob/master/is_valid_sudoko(LTM-36).py)
 
 17. [Group Anagrams](https://github.com/KumarAbhinav2/Arrays/blob/master/group_anagrams(LTM-49).py)
+
+18. [Max product of 3 numbers](https://github.com/KumarAbhinav2/Arrays/blob/master/max_product_of_3numbers(LTE-628).py) 
