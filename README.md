@@ -21,3 +21,4 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 17. [Group Anagrams](https://github.com/KumarAbhinav2/Arrays/blob/master/group_anagrams(LTM-49).py)
 18. [Max product of 3 numbers](https://github.com/KumarAbhinav2/Arrays/blob/master/max_product_of_3numbers(LTE-628).py) 
 19. [Number of Distinct Islands](https://github.com/KumarAbhinav2/Arrays/blob/master/numberOfDistinctIslands(LTM-200).py)
+20. [Walls and Gates](https://github.com/KumarAbhinav2/Arrays/blob/master/wallsAndGates(LTM-286).py)
