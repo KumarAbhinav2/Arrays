@@ -26,3 +26,4 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 22. [Implement Hash table in python](https://github.com/KumarAbhinav2/Arrays/blob/master/implementHashTable.py) 
 23. [Implement Priority Queue Python](https://github.com/KumarAbhinav2/Arrays/blob/master/implementPriorityQueue.py)
 24. [Container with most water](https://github.com/KumarAbhinav2/Arrays/blob/master/containerWithMostWater(LTM-11).py) 
+25. [Sorting Stack using buffer stack - EASY](https://github.com/KumarAbhinav2/Arrays/blob/master/sortingStack.py)
