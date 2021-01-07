@@ -32,3 +32,4 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 28. [Find all Diappeared numbers from Array - EASY](https://github.com/KumarAbhinav2/Arrays/blob/master/findAllNumbersDisappearedInArray(LTE-448).py)
 29. [Max consecutive ones](https://github.com/KumarAbhinav2/Arrays/blob/master/maxConsecutiveOnes-II(LTM-487).py)
 30. [Simplify Path - MEDIUM](https://github.com/KumarAbhinav2/Arrays/blob/master/simplify_path(LTM-71).py)
+31. [Array Pairs divisible by k - MEDIUM](https://github.com/KumarAbhinav2/Arrays/blob/master/arrayPairsDivisibleByK(LTM-1497).py)
