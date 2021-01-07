@@ -31,3 +31,4 @@ Repository is dedicated to host interesting Array problems mostly from popular p
 27. [Flood Fill - EASY](https://github.com/KumarAbhinav2/Arrays/blob/master/flood-fill(LTE-733).py) 
 28. [Find all Diappeared numbers from Array - EASY](https://github.com/KumarAbhinav2/Arrays/blob/master/findAllNumbersDisappearedInArray(LTE-448).py)
 29. [Max consecutive ones](https://github.com/KumarAbhinav2/Arrays/blob/master/maxConsecutiveOnes-II(LTM-487).py)
+30. [Simplify Path - MEDIUM](https://github.com/KumarAbhinav2/Arrays/blob/master/simplify_path(LTM-71).py)
